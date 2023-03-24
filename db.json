@@ -1,0 +1,82 @@
+{
+    "equipamentos": [
+        {
+            "id": "1",
+            "posicaoAtual": {
+                "data": "2022-03-22T12:30:00.000Z",
+                "latitude": -19.1231,
+                "longitude": -45.987
+            },
+            "estadoAtual": {
+                "atualState": "Operando",
+                "cor": "#2ecc71"
+            },
+            "historicoEstados": [
+                {
+                    "data": "2022-03-20T10:00:00.000Z",
+                    "idEstadoEquipamento": "Em manutenção"
+                },
+                {
+                    "data": "2022-03-21T15:20:00.000Z",
+                    "idEstadoEquipamento": "Operando"
+                },
+                {
+                    "data": "2022-03-19T11:00:00.000Z",
+                    "idEstadoEquipamento": "Parado"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "posicaoAtual": {
+                "data": "2022-03-22T12:45:00.000Z",
+                "latitude": -19.1231,
+                "longitude": -45.9878
+            },
+            "estadoAtual": {
+                "atualState": "Parado",
+                "cor": "#e74c3c"
+            },
+            "historicoEstados": [
+                {
+                    "data": "2022-03-20T09:00:00.000Z",
+                    "idEstadoEquipamento": "Parado"
+                },
+                {
+                    "data": "2022-03-21T14:30:00.000Z",
+                    "idEstadoEquipamento": "Operando"
+                },
+                {
+                    "data": "2022-03-19T12:00:00.000Z",
+                    "idEstadoEquipamento": "Em manutenção"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "posicaoAtual": {
+                "data": "2022-03-22T12:45:00.000Z",
+                "latitude": -19.1231,
+                "longitude": -45.989
+            },
+            "estadoAtual": {
+                "atualState": "Em manutenção",
+                "cor": "#e74c3c"
+            },
+            "historicoEstados": [
+                {
+                    "data": "2022-03-20T09:00:00.000Z",
+                    "idEstadoEquipamento": "Parado"
+                },
+                {
+                    "data": "2022-03-21T14:30:00.000Z",
+                    "idEstadoEquipamento": "Parado"
+                },
+                {
+                    "data": "2022-03-19T12:00:00.000Z",
+                    "idEstadoEquipamento": "Em manutenção"
+                }
+            ]
+        }
+    ]
+}
